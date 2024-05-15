@@ -139,8 +139,8 @@ bank=Bank("City Bank","Mirpur")
 
 
 
-account1 = BankAccount('Doe', 'johndoe@example.com', '123 Street, City', 'Savings',123324)
-account2 = BankAccount('nii Doe', 'johndoe@example.com', '123 Street, City', 'Savings',248739)
+account1 = BankAccount('Doe', 'johndoe@example.com', '123 Street, sylhet', 'Savings',123324)
+account2 = BankAccount('Nicolas', 'nicolas@example.com', '001 Street, mirpur', 'Savings',248739)
 
 
 
